@@ -1,4 +1,4 @@
-# What is Pichi Finance(PICHI)?
+# What is Pichi Finance (PICHI)?
 Pichi is a trustless points protocol, allowing users to trade points from leading protocols pre-TGE. Pichi utilizes ERC-6551 (Tokenbound) Accounts which are owned by NFTs. Trading the NFT transfers custody of the account along with any points accrued to that account.   
 
 Pichi Wallet owners can list wallets for sale and points buyers can view listed wallets. Each listed wallet will give a full breakdown of points earned and what types of assets earned these points. Additional data such as a Time vs Points Balance graph and detailed views of wallet transactions will be shown to further visualize when points were earned.   
