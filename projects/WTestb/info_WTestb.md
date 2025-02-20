@@ -1,6 +1,6 @@
 **Weave6** is an **omnichain asset trading infrastructure** that offers a complete ecosystem for the creation, management, and trading of **omnichain assets** such as **NFTs** and **Inscriptions**. This infrastructure includes an **indexer**, **marketplace**, and **launchpad**, providing a comprehensive access point for **dApps** and users to **launch**, **mint**, and **trade** omnichain assets.
 
-### Key Components:
+### Key Components..:
 
 - **Indexer**: Weave6 features a powerful indexer that tracks and organizes omnichain assets across multiple blockchains, ensuring that users and dApps have access to up-to-date information and seamless integration across chains.
 
