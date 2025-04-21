@@ -2,7 +2,7 @@
 
 **MultiChain Trading and Launching Platforms for Omnichain Assets**
 
-* Officially supported by ZetaChain, Weave6 is the first and, currently, the only platform for trading and launching omnichain assets (NFTs and Inscriptions) on ZetaChain.
+* Officially supported by ZetaChain, Weave6 is the first and. currently, the only platform for trading and launching omnichain assets (NFTs and Inscriptions) on ZetaChain.
 * Multi-Chain Compatibility: Weave6 already supports trading and launching for EVM, Solana, and Ordinals NFTs and Inscriptions. It is also collaborating with ZetaChain to establish a standard for launching Omnichain assets.
 *The Weave6 platform boasts over 30,000 trading users.
 
