@@ -1,7 +1,7 @@
 
 **Total Funding Amount**
 
-- **5 ETH**: The total amount targeted in the funding round.
+- **1 ETH**: The total amount targeted in the funding round.
 
 
 **Funding Rounds**
