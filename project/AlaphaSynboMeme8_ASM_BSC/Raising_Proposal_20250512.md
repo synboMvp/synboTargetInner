@@ -1,5 +1,5 @@
 # 1. Distribution Type
-- Fair Launch A
+- Fair Launch B
 
 # 2. Asset Description & Valuation
 ## 2.1 Asset Details
