@@ -7,6 +7,9 @@ Subsequently, you can add token info, project detail files, and financing propos
 - TokenName_TokenSymbol_ChainName.Json
 e.g. : AlaphaSynboMeme_ASM_BSC.Json
 
+### Update Rules
+- You can modify the content directly without changing the file name.
+
 ### File Content
 The file content is as follows. Please read it carefully.
 ```javascript
@@ -46,6 +49,9 @@ The file content is as follows. Please read it carefully.
 ## 2. Project Detail File
 ### Naming Convention
 - Project_Details.md
+
+### Update Rules
+- You can modify the content directly without changing the file name.
 
 ### File Content
 Kindly provide a detailed description of the project's innovations and development roadmap. You may refer to the template below for guidance.
@@ -108,6 +114,10 @@ Introduce the investors who participated in each financing round, including the 
 ### Naming Convention
 - Raising_Proposal_CreationTime.md
 e.g. :Raising_Proposal_20250423.md
+
+### Update Rules
+- Existing files cannot be edited directly; new files must be created for updates.
+- A maximum of 1 new financing proposal file can be uploaded per day to avoid frequent changes.
 
 ### File Content
 The document will be uploaded to GitHub to maintain a history of edits and will be shared with brokers and investors throughout the fundraising process.
