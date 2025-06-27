@@ -8,7 +8,7 @@
 - Functional Purpose:
   - Governance (Position Proof voting)
   - Liquidity mining incentives
-  - Access to Synbo Protocol’s 1.5-Tier market
+  - Access to Synbo Protocol’s 1.5-Tier market 
 - Technical Implementation:
   - Blockchain: BSC (Binance Smart Chain)
   - Contract Standard: BEP-20 (ERC-20 compatible)
