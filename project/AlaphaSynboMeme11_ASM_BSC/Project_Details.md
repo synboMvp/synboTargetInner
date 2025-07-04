@@ -1,4 +1,4 @@
-# 1. Project Overview
+# 1. Project Overview 
 ## 1.1 Overview
 Synbo Protocol is the world's first decentralized venture capital fund protocol based on liquidity and Position Proof, aiming to establish itself as the most efficient, transparent, and outstanding digital fund in the digital asset domain. The Alpha Synbo Meme (ASM) serves as the operational token for the Alpha prior version of Synbo Protocol, playing a crucial role in system functions and operations. By leveraging blockchain technology, the protocol focuses on creating a novel investment ecosystem that redefines the digital asset investment model.
 
