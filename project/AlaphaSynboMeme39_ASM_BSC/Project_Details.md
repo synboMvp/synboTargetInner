@@ -46,6 +46,7 @@ None
 ## 5.1 Financing Rounds
 None
 
+
 ## 5.2 Financing Amounts
 None
 
